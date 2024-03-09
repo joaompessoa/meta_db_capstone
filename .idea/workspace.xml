@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11966549-9b49-433d-9a03-6d1a37f8eabb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_2/TableBookingSystem.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1b42ef03-9d6e-48ba-bedd-dc9bc2c1d588.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1b42ef03-9d6e-48ba-bedd-dc9bc2c1d588.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1b42ef03-9d6e-48ba-bedd-dc9bc2c1d588/storage_v2/_src_/schema/littlelemondb.-_JvfA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1b42ef03-9d6e-48ba-bedd-dc9bc2c1d588/storage_v2/_src_/schema/littlelemondb.-_JvfA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddQueryFunctions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database_diagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LittleLemonDM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_2/CreatingVirtualTables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/CreatingVirtualTables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_2/OptimizeQueries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/OptimizeQueries.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_2/TableBookingSystem.sql" beforeDir="false" afterPath="$PROJECT_DIR$/TableBookingSystem.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_2/UpdateAddBookings.sql" beforeDir="false" afterPath="$PROJECT_DIR$/UpdateAddBookings.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,22 +105,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709898246537</updated>
-      <workItem from="1709898251260" duration="17603000" />
+      <workItem from="1709898251260" duration="21321000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
